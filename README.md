@@ -55,17 +55,14 @@ Incluye los siguientes KPIs y visualizaciones:
 ---
 
 ## 📁 Estructura del Proyecto
-sql-cleaning-empleados/
-├── README.md
+Limpieza-y-Análisis-de-Datos-1---SQL-y-PowerBI/
+├── README.md                        # Documentación completa del proyecto
 ├── sql/
-│ └── limpieza_empleados.sql # Script SQL completo (13 etapas)
+│   └── limpieza_empleados.sql      # Script SQL completo (13 etapas)
 ├── assets/
-│ └── dashboard.png # Captura del dashboard de Power BI
-├── powerbi/
-│ └── dashboard.pbix # (opcional) Archivo Power BI editable
+│   └── dashboard.png               # Captura del dashboard de Power BI
 └── data/
-└── empleados_original.csv # (opcional) Datos crudos si querés compartir
-
+    └── empleados_original.csv      # Datos crudos anonimizados (simulados)
 
 
 ---
