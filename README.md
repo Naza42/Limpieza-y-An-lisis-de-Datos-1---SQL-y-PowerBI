@@ -98,8 +98,8 @@ Este tipo de proyecto es fundamental en **procesos de migración de sistemas**, 
 Estudiante de Ingeniería en Sistemas · Apasionado por la analítica de datos y la eficiencia con SQL + IA  
 📅 Fecha: Junio 2025
 
-[LinkedIn](www.linkedin.com/in/carlosnazarenorolon)
-[Portafolio]()
+LinkedIn: www.linkedin.com/in/carlosnazarenorolon
+Portafolio: 
 
 ---
 
